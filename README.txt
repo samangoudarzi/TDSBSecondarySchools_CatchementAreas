@@ -4,4 +4,4 @@ ESRI shapefile layer depicting the Toronto District School Board's secondary sch
 
 This shapefile was created as part of a pilot project looking to develop a "find my school app" for Toronto residents. 
 
-IMPORTANT: Polygon layer is not complete. 
+IMPORTANT: Take caution when using this layer as the polygon layer is not 100% complete. 
